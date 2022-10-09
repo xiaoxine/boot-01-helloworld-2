@@ -7,5 +7,5 @@ Spring Initailizr（项目初始化向导）
 ##这是一个测试-图片显示
 ![Alt](pic/文件放置.png)
 ![images](https://github.com/mengnn/images_library/blob/master/H5form/1.jpg)
-3、自动编写好主配置类!
-[Alt](pic/自动编写好主配置类.png)
+3、自动编写好主配置类
+![Alt](pic/自动编写好主配置类.png)
